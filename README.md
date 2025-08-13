@@ -65,7 +65,7 @@ Live Demo: https://your-demo-link.com
 
 🤝 Contributing
 1. Fork the repository  
-2. Create a new branch (`feature/xyz`)  
+2. Create a new branch 
 3. Commit your changes  
 4. Push to your branch  
 5. Submit a Pull Request
@@ -73,7 +73,7 @@ Live Demo: https://your-demo-link.com
 ---
 
 📜 License
-Licensed under the **MIT License** – see the [LICENSE](LICENSE) file.
+Licensed under the MIT License – see the (LICENSE) file.
 
 ---
 
