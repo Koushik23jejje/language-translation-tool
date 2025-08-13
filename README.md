@@ -1,10 +1,10 @@
 🌐 Language Translation Tool
 A web app to translate text between multiple languages using Google Translate or Microsoft Translator API. Features a clean UI, language selection, instant results, copy-to-clipboard, and optional text-to-speech. Built with React, Node.js, and Express — fast, responsive, and easy to use.
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/language-translation-tool?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/language-translation-tool?style=social)
-![GitHub license](https://img.shields.io/github/license/your-username/language-translation-tool)
-![GitHub issues](https://img.shields.io/github/issues/your-username/language-translation-tool)
+![GitHub stars](https://img.shields.io/github/stars/Koushik23jejje/language-translation-tool?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Koushik23jejje/language-translation-tool?style=social)
+![GitHub license](https://img.shields.io/github/license/Koushik23jejje/language-translation-tool)
+![GitHub issues](https://img.shields.io/github/issues/Koushik23jejje/language-translation-tool)
 
 A simple, responsive full-stack web app to translate text between multiple languages in real time using **Google Translate API** or **Microsoft Translator API**. Users can enter text, choose source & target languages, and get instant translations with copy-to-clipboard and optional text-to-speech features.
 
