@@ -1,5 +1,0 @@
-server/
-├─ package.json
-├─ app.js
-├─ .env            # do NOT commit
-└─ README.md       # optional (backend-only notes)
