@@ -53,12 +53,11 @@ cd server && npm start
 cd ../client && npm start
 ```
 📂 Folder Structure
-
-pgsql
-Copy
-Edit
-client/   → React frontend
-server/   → Node.js backend
+client/   → React frontend (UI, components, styles)  
+server/   → Node.js backend (API routes, translation logic)  
+README.md → Documentation  
+LICENSE   → License file  
+.gitignore → Git ignore rules
 
 📸 Screenshot / Demo
 
